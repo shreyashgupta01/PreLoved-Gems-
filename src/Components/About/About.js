@@ -15,11 +15,11 @@ function About() {
       treasure at a time.".</p>
       <h2 className="subHeading">Our Team</h2>
       <ul className="list">
-      <li className="listItem">Rohan Chintalwar </li>
-        <li className="listItem">Amar Sharma</li>
-        <li className="listItem">Omkar Patil</li>
-        <li className="listItem">Mayur Nair</li>
-        <li className="listItem">Yug Jain</li>
+      <li className="listItem">Shreyash Gupta </li>
+        <li className="listItem">Vaibhav Shukla</li>
+        <li className="listItem">Satvik Agnihotri</li>
+        <li className="listItem">Shriyansh Singh</li>
+        
         
         </ul>
        
